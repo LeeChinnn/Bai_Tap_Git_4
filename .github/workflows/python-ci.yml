@@ -1,6 +1,5 @@
 name: Python Code Quality Check (CI)
 
-# Kích hoạt pipeline khi có Push hoặc Pull Request vào main
 on:
   pull_request:
     branches: [ main ]
